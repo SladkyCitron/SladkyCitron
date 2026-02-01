@@ -51,13 +51,6 @@ I'm a hardcore Gopher, and Go is my primary language for everything.
   <img src="https://github.com/MatusOllah/MatusOllah/blob/main/satisfactory.png?raw=true" alt="satisfactory" width="42" height="42" />
 </p>
 
-## 🎵 Favorite Songs
-
-- [Hiiragi Magnetite fest. Hatsune Miku - Antenna 39](https://www.youtube.com/watch?v=7yJRsFFRoQY)
-- [KIRA feat. Kagamine Rin/Len - FAKE HEART](https://tidal.com/track/389798883/u)
-- [Mitchie M - Ring no Shitenshi](https://tidal.com/track/120907317/u)
-- [Hachioji P - Rad Dogs](https://tidal.com/track/240205801/u)
-
 ## 📬 Connect With Me
 
 > Feel free to reach out if you want to talk about Go, or PJSK, or just be friends!
