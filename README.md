@@ -28,28 +28,16 @@ I'm a hardcore Gopher, and Go is my primary language for everything.
 
 ## 🚀 My Projects
 
-- 🏗️ [**GoTAU**](https://github.com/MatusOllah/gotau) - Experimental UTAU-compatible singing voice synthesizer, written in Go
-- [**Resona**](https://github.com/MatusOllah/resona) - The Audio and DSP toolkit for Go
-- [**MakeSticker**](https://github.com/MatusOllah/makesticker) - A Project SEKAI CLI sticker maker, written in Go
-- [**slogcolor**](https://github.com/MatusOllah/slogcolor) - Color handler for log/slog, written in Go
+- 🏗️ [**GoTAU**](https://github.com/SladkyCitron/gotau) - Experimental UTAU-compatible singing voice synthesizer, written in Go
+- [**Resona**](https://github.com/SladkyCitron/resona) - The Audio and DSP toolkit for Go
+- [**MakeSticker**](https://github.com/SladkyCitron/makesticker) - A Project SEKAI CLI sticker maker, written in Go
+- [**slogcolor**](https://github.com/SladkyCitron/slogcolor) - Color handler for log/slog, written in Go
 
 > 🏗️ = work-in-progress
 
 ## 📊 My Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatusOllah&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatusOllah&theme=transparent&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🎮 Favorite Games
-
-<p align="center">
-  <img src="https://github.com/MatusOllah/MatusOllah/blob/main/pjsk.png?raw=true" alt="pjsk" width="42" height="42" />
-  <img src="https://github.com/MatusOllah/MatusOllah/blob/main/minecraft.png?raw=true" alt="minecraft" width="42" height="42" />
-  <img src="https://github.com/MatusOllah/MatusOllah/blob/main/fall_guys.png?raw=true" alt="fall_guys" width="42" height="42" />
-  <img src="https://github.com/MatusOllah/MatusOllah/blob/main/subnautica.png?raw=true" alt="subnautica" width="42" height="42" />
-  <img src="https://github.com/MatusOllah/MatusOllah/blob/main/half_life.png?raw=true" alt="half_life" width="42" height="42" />
-  <img src="https://github.com/MatusOllah/MatusOllah/blob/main/slime_rancher.png?raw=true" alt="slime_rancher" width="42" height="42" />
-  <img src="https://github.com/MatusOllah/MatusOllah/blob/main/satisfactory.png?raw=true" alt="satisfactory" width="42" height="42" />
-</p>
 
 ## 📬 Connect With Me
 
