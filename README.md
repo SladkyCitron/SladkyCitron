@@ -1,6 +1,6 @@
 # Hiii! 😊
 
-I'm a 16-year-old student and passionate self-taught Go developer from Slovakia who loves coding, gaming, and making awesome things happen with technology!
+I'm a 17-year-old student and passionate self-taught Go developer from Slovakia who loves coding, gaming, and making awesome things happen with technology!
 I'm a hardcore Gopher, and Go is my primary language for everything.
 
 - 🎵 I ❤ **Vocaloid** (Hatsune Miku is my favorite one! 🩵)
