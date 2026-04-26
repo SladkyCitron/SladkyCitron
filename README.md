@@ -4,7 +4,6 @@ I'm a 17-year-old student and passionate self-taught Go developer from Slovakia 
 I'm a hardcore Gopher, and Go is my primary language for everything.
 
 - 🎵 I ❤ **Vocaloid**
-- 🌟 I ❤ **Project SEKAI**
 - 🚀 Currently exploring DSP in Go
 - 🇸🇰 I'm Slovak, and English is my second language, so please forgive any mistakes! 😊
 
