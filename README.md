@@ -21,3 +21,5 @@ I'm a hardcore Gopher, and Go is my primary language for everything.
 ## 📊 My Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SladkyCitron&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SladkyCitron&theme=transparent&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+![:sladkycitron](https://count.getloli.com/@:sladkycitron?theme=miku)
