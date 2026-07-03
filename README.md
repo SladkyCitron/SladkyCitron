@@ -7,7 +7,7 @@ I'm a hardcore Gopher, and Go is my primary language for everything.
 - 🚀 Currently exploring DSP in Go
 - 🇸🇰 I'm Slovak, and English is my second language, so please forgive any mistakes! 😊
 
-> *"Code is like humor. When you have to explain it, it's bad."* – **Cory House**
+> *"Kasane Teto is like Rust, both are overrated."* - **Me**
 
 ## 🚀 My Projects
 
@@ -20,6 +20,6 @@ I'm a hardcore Gopher, and Go is my primary language for everything.
 
 ## 📊 My Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SladkyCitron&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SladkyCitron&theme=transparent&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-stats-extended.vercel.app/api?username=SladkyCitron&theme=transparent)](https://github.com/stats-organization/github-stats-extended) [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=SladkyCitron&theme=transparent&layout=compact&langs_count=8)](https://github.com/stats-organization/github-stats-extended)
 
 ![:sladkycitron](https://count.getloli.com/@:sladkycitron?theme=miku)
