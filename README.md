@@ -7,8 +7,6 @@ I'm a hardcore Gopher, and Go is my primary language for everything.
 - 🚀 Currently exploring DSP in Go
 - 🇸🇰 I'm Slovak, and English is my second language, so please forgive any mistakes! 😊
 
-> *"Kasane Teto is like Rust, both are overrated."* - **Me**
-
 ## 🚀 My Projects
 
 - 🏗️ [**GoTAU**](https://github.com/SladkyCitron/gotau) - UTAU-compatible singing voice synthesizer, written in Go
