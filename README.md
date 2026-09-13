@@ -4,7 +4,7 @@ I'm a 17-year-old student and self-taught Go developer from Slovakia.
 I love coding, gaming, Vocaloid, experimenting with DSP/audio, and making cool ideas into working software!
 Go is my primary language for pretty much everything.
 
-- 🎵 I ❤ **Hatsune Miku**
+- 🎵 I ❤ **Hatsune Miku**!
 - 🎛️ Currently exploring DSP and audio in Go
 - 🇸🇰 Native Slovak speaker, English feedback is always welcome! 😊
 
