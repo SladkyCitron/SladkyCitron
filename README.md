@@ -6,7 +6,7 @@ Go is my primary language for pretty much everything.
 
 - 🎵 I ❤ **Hatsune Miku**!
 - 🎛️ Currently exploring DSP and audio in Go
-- 🇸🇰 Native Slovak speaker, English feedback is always welcome! 😊
+- 🇸🇰 Native Slovak speaker
 
 ## 🚀 My Projects
 
