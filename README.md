@@ -1,4 +1,4 @@
-# Hi! 😊
+# Ahoj! 😊
 
 I'm a 17-year-old student and self-taught Go developer from Slovakia.
 I love coding, gaming, Vocaloid, experimenting with DSP/audio, and making cool ideas into working software!
