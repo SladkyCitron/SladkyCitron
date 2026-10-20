@@ -13,7 +13,7 @@ Go is my primary language for pretty much everything.
 - [**GoTAU**](https://github.com/SladkyCitron/gotau) - UTAU-compatible singing voice synthesizer, written in Go **(WIP 🏗️)**
 - [**Resona**](https://github.com/SladkyCitron/resona) - The Audio and DSP toolkit for Go
 - [**MakeSticker**](https://github.com/SladkyCitron/makesticker) - A Project SEKAI CLI sticker maker, written in Go
-- [**slogcolor**](https://github.com/SladkyCitron/slogcolor) - Color handler for log/slog, written in Go
+- [**Vlna**](https://github.com/SladkyCitron/vlna) - Internet radio player, built with Go + Wails
 
 ## 📊 My Stats
 
